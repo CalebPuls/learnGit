@@ -3,3 +3,4 @@ git is free distribute software under the GPL
 git has a mutable index called stage
 update user
 create a new branch
+test fetch
